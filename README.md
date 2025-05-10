@@ -1,2 +1,2 @@
 # tama 🦆
-basic tamagotchi game created using pixilart and processing
+basic tamagotchi game created using pixilart and processing :) 
